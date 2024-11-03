@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am working on my portfolio by doing projects and studying backend, I'm currently learning C#.
+I am working on my portfolio by doing projects and studying backend.
+Currently learning C#.
 
 
 ## 🌐 Socials:
